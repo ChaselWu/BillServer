@@ -1,0 +1,22 @@
+[
+  {
+    "level": 1,
+    "title": "图片识别",
+    "icon": "home",
+    "open": false,
+    "selected": true,
+    "disabled": false,
+    "routerLink": "image-recognition",
+    "children": null
+  },
+  {
+    "level": 1,
+    "title": "视频识别",
+    "icon": "home",
+    "open": false,
+    "selected": true,
+    "disabled": false,
+    "routerLink": "home",
+    "children": null
+  }
+]
